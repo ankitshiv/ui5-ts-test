@@ -1,0 +1,15 @@
+{
+  "generator-ui5-ts-app": {
+    "application": "uiTsTest",
+    "namespace": "com.sap.apm.uiTsTest",
+    "framework": "SAPUI5",
+    "frameworkVersion": "1.111.1",
+    "author": "ankitshiv",
+    "initrepo": false,
+    "tstypes": "@sapui5/ts-types-esm",
+    "tstypesVersion": "1.111.1",
+    "appId": "com.sap.apm.uiTsTest.uiTsTest",
+    "appURI": "com/sap/apm/uiTsTest/uiTsTest",
+    "setupCompleted": true
+  }
+}
