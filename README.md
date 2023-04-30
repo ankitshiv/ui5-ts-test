@@ -108,3 +108,4 @@ Once you have understood the setup and want to inspect the code of a slightly mo
 ## License
 
 This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
+# ui5-angular-poc
